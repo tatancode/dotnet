@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Blogger.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@if (User.Identity.IsAuthenticated)
+{ 
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+ }
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BlogId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Topic)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BlogId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Topic.TopicId)
+                @Html.DisplayFor(modelItem => item.Topic.TopicName)
+
+            </td>
+            @if (Context.User.Identity.IsAuthenticated)
+            {
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.BlogId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.BlogId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.BlogId">Delete</a>
+                </td>
+            }
+        </tr>
+}
+    </tbody>
+</table>
