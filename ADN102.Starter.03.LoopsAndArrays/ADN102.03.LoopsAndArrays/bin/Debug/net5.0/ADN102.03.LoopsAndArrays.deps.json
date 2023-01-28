@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ADN102.03.LoopsAndArrays/1.0.0": {
+        "runtime": {
+          "ADN102.03.LoopsAndArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADN102.03.LoopsAndArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

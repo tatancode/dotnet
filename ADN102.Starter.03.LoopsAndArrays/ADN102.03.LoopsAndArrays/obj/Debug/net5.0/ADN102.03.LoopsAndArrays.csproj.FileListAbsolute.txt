@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ADN102.03.LoopsAndArrays.exe
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ADN102.03.LoopsAndArrays.deps.json
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ADN102.03.LoopsAndArrays.runtimeconfig.json
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ADN102.03.LoopsAndArrays.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ADN102.03.LoopsAndArrays.dll
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ref\ADN102.03.LoopsAndArrays.dll
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\bin\Debug\net5.0\ADN102.03.LoopsAndArrays.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.dll
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ref\ADN102.03.LoopsAndArrays.dll
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.03.LoopsAndArrays\ADN102.03.LoopsAndArrays\obj\Debug\net5.0\ADN102.03.LoopsAndArrays.genruntimeconfig.cache

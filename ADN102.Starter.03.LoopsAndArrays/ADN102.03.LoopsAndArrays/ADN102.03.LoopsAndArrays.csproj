@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ADN102._03.LoopsAndArrays</RootNamespace>
+    <StartupObject>ADN102._03.LoopsAndArrays.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
