@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ADN102._04.Methods</RootNamespace>
+    <StartupObject>ADN102._04.Methods.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="invoices.dat">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

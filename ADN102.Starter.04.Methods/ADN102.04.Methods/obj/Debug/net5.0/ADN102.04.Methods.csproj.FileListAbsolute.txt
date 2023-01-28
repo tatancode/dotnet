@@ -1,0 +1,17 @@
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\invoices.dat
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ADN102.04.Methods.exe
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ADN102.04.Methods.deps.json
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ADN102.04.Methods.runtimeconfig.json
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ADN102.04.Methods.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ADN102.04.Methods.dll
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ref\ADN102.04.Methods.dll
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\bin\Debug\net5.0\ADN102.04.Methods.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.dll
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ref\ADN102.04.Methods.dll
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.04.Methods\ADN102.04.Methods\obj\Debug\net5.0\ADN102.04.Methods.genruntimeconfig.cache
