@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ADN102.02.Operations.exe
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ADN102.02.Operations.deps.json
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ADN102.02.Operations.runtimeconfig.json
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ADN102.02.Operations.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ADN102.02.Operations.dll
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ref\ADN102.02.Operations.dll
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\bin\Debug\net5.0\ADN102.02.Operations.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.dll
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ref\ADN102.02.Operations.dll
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.02.Operations\ADN102.02.Operations\obj\Debug\net5.0\ADN102.02.Operations.genruntimeconfig.cache
