@@ -1,0 +1,80 @@
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfo.cs
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.exe
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.deps.json
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.json
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.dev.json
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\source\repos\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.genruntimeconfig.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csprojAssemblyReference.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfo.cs
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.exe
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.deps.json
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.json
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.dev.json
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\Solutions\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.genruntimeconfig.cache
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.exe
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.deps.json
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.json
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.dev.json
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfo.cs
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\source\repos\Starters\ADN102.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.genruntimeconfig.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.exe
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.deps.json
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.json
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.dev.json
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfo.cs
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\brian\OneDrive - Reboot Consulting\WOZ\9.20.2021\Starters\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.genruntimeconfig.cache
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.exe
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.deps.json
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.json
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\bin\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.dll
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ref\ADN102.01.Introduction.dll
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.01.Introduction\ADN102.01.Introduction\obj\Debug\net5.0\ADN102.01.Introduction.genruntimeconfig.cache
