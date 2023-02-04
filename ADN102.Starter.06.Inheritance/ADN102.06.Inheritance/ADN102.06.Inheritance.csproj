@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ADN102._06.Inheritance</RootNamespace>
+    <StartupObject>ADN102._06.Inheritance.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

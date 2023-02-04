@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ADN102.06.Inheritance.exe
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ADN102.06.Inheritance.deps.json
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ADN102.06.Inheritance.runtimeconfig.json
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ADN102.06.Inheritance.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ADN102.06.Inheritance.dll
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ref\ADN102.06.Inheritance.dll
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\bin\Debug\net5.0\ADN102.06.Inheritance.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.dll
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ref\ADN102.06.Inheritance.dll
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.pdb
+C:\Users\sebas\source\repos\ADN102.Starter.06.Inheritance\ADN102.06.Inheritance\obj\Debug\net5.0\ADN102.06.Inheritance.genruntimeconfig.cache

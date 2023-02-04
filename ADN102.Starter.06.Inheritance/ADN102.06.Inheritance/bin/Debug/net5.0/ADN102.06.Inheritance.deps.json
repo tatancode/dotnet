@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ADN102.06.Inheritance/1.0.0": {
+        "runtime": {
+          "ADN102.06.Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADN102.06.Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
