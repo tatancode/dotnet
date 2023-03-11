@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ADN102._09.NamespaceActivities_Pages_8_9_and_12</RootNamespace>
+    <StartupObject>ADN102._09.NamespaceActivities_Pages_8_9_and_12.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
